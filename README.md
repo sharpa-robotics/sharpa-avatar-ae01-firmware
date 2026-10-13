@@ -1,6 +1,6 @@
 # sharpa-avatar-ae01-firmware
 
-Firmware release packages for Sharpa Avatar AE01.
+Embedded firmware for the Sharpa AE01 Glove, supporting sensor data acquisition, tactile feedback, wired USB and 2.4 GHz wireless communication, and device operation.
 
 ---
 
